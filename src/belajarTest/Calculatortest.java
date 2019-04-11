@@ -18,7 +18,7 @@ public class Calculatortest {
 	@DisplayName("1 + 1 = 2")
 	void addsTwoNumbers() {
 		Calculator Calculatora = new Calculator();
-		assertEquals(2, Calculatora.add(1, 1), "1 + 1 should equal 2");
+		assertEquals(2, Calculatora.add(1, 3), "1 + 1 should equal 2");
 	}
 
 	@ParameterizedTest(name = "{0} + {1} = {2}")
