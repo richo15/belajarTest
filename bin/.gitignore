@@ -19,3 +19,13 @@ gradle-app.setting
 
 # Misc
 *.log
+/.gitignore
+/README.md
+/belajarTest/
+/build-JITPACK.gradle
+/build-SNAPSHOT.gradle
+/build.gradle
+/gradle/
+/gradlew
+/gradlew.bat
+/src/
